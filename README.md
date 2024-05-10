@@ -7,7 +7,6 @@ Rafael Gaspar, RM 557228 <br>
 Vinicius Monteiro, RM 555088 <br>
 Guilherme Oliveira, RM 555180 <br> 
 Enzo Diógenes, RM 555062 <br>
-Victor Mesquita, RM 558258 <br>
 
 ## Link da simulação em TinkerCad
 https://www.tinkercad.com/things/gx1TBISQgtq-checkpoint-edge-2
