@@ -1,4 +1,4 @@
-# Projeto sensor de Iluminosidade (Checkpoint Edge)
+# Projeto sensor de Iluminosidade, Umidade e Temperatura (Checkpoint Edge)
 
 ## Equipe
 
